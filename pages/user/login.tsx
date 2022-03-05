@@ -7,7 +7,7 @@ import LoginForm from "../../components/profile/LoginForm";
 const Login = () => (
   <>
     <Head>
-      <title>LOGIN | NEXT REALWORLD</title>
+      <title>Conduit</title>
       <meta name="description" content="Please login to use fully-featured next-realworld site. (Post articles, comments, and like, follow etc.)" />
     </Head>
     <div className="auth-page">

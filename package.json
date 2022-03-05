@@ -1,7 +1,10 @@
 {
-  "name": "next-realworld-example-app",
+  "name": "conduit-react",
   "version": "1.0.0",
-  "author": "reck1ess",
+  "contributor": [
+    "<heeinso@snu.ac.kr>",
+    "<israelroldan@goodhabitz.com>"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",

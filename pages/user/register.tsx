@@ -7,7 +7,7 @@ import RegisterForm from "../../components/profile/RegisterForm";
 const Register = () => (
   <>
   <Head>
-    <title>REGISTER | NEXT REALWORLD</title>
+    <title>Conduit</title>
     <meta name="description" content="Please register before login" />
   </Head>
   <div className="auth-page">
